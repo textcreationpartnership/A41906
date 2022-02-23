@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great miracle at sea, or, A perfect relation of a mighty whale which was pursued in the sea ... : as it was certified by divers mariners of Weymouth sayling from France in a shipp called the Bonanaventure, did shoot the whale, which ... was found dead upon the shore within three miles of Weymouth, where the countrey people ... having opened it's belly, found a Romish priest, with a black box of pardons from the pope for many papists in England and Ireland, whose names are here printed : also the names of the sea-men who were present ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41906</idno>
+            <idno type="STC">Wing G1712</idno>
+            <idno type="STC">ESTC R43214</idno>
+            <idno type="EEBO-CITATION">27024430</idno>
+            <idno type="OCLC">ocm 27024430</idno>
+            <idno type="VID">109918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1718:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great miracle at sea, or, A perfect relation of a mighty whale which was pursued in the sea ... : as it was certified by divers mariners of Weymouth sayling from France in a shipp called the Bonanaventure, did shoot the whale, which ... was found dead upon the shore within three miles of Weymouth, where the countrey people ... having opened it's belly, found a Romish priest, with a black box of pardons from the pope for many papists in England and Ireland, whose names are here printed : also the names of the sea-men who were present ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of event given in text as 19 October, 1645.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England.</term>
+               <term>Curiosities and wonders --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109918:1" rendition="simple:additions"/>
+            <p>A great Miracle AT SEA: OR, A perfect Relation of a mighty <hi>Whale,</hi> which was purſued in the Sea, and encountred by multitudes of other Fiſhes, As it was certified by divers Mariners of <hi>Wey<g ref="char:EOLhyphen"/>mouth</hi> Sayling from <hi>France</hi> in a Shipp called the <hi>Bonanaventure,</hi> did ſhoot the Whale, Which making to Land (as all Whales do when they are mortally wounded) was found dead upon the Shore within three miles of <hi>Weymouth.</hi>
+            </p>
+            <p>
+               <hi>Where the Countrey people (after many dayes labour upon this mighty fiſh) having opened it's belly, found a Romiſh Prieſt, with a black Box of Pardons from the Pope for many Pa<g ref="char:EOLhyphen"/>piſts in England and Ireland, whoſe Names are here printed.</hi>
+            </p>
+            <p>Alſo the names of the Sea-men who were pre<g ref="char:EOLhyphen"/>ſent, and will make atteſtation of this wonderfull truth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109918:2"/>
+            <pb n="1" facs="tcp:109918:2"/>
+            <head>A great wonder at Sea.</head>
+            <p>THat Antichriſt or the Pope is the Beaſt of <hi>Rome,</hi> hath beene abundantly declared by all reformed Writers; but that this Beaſt is odious not onely to men and Creatures upon earth, but even to Fiſhes in the Sea this age onely can give an illuctration of it, and that in ſuch a miraculous manner as never age can produce the like. We will deſcribe unto you the full manner of it, and you ſhall have it really and plainly related as we have received the truth from many who were the preſent Spectators of this wonderfull ſight, and wee ſhall deſire onely from you but the gentleneſſe to receive it, and the credence to beleeve it.</p>
+            <p>On the 10 of <hi>October</hi> 1645 being the Lords Day, the good Shipp called <hi>The Bonaventure of Weymouth,</hi> being bound for <hi>England,</hi> was bringing home her Merchandize from <hi>France,</hi> which was Wines, Lin<g ref="char:EOLhyphen"/>nen-Cloth, and abundance of Walnuts: the day was very fair, and no winde ſtirring, ſo that the Ship for above three hours ſpace lay hulling uppon the Seas, being not able to move either one way or other, for want of winde, although ſhee was full Sayled and prepared to take the advantage of every Gale. Being put to ſome inconveni<g ref="char:EOLhyphen"/>ence by reaſon of this great Calme, the Sea-men for the preſent had nothing elſ to do but to look about them, many of them, as the maner is at Sea, wiſhing rather for a Tempeſt, then being Wind-bound to ſtare about them, and doe nothing, when behold not farre from them they ſaw a mighty rowling, and working upon the water; and being amazed at the ſtrangeneſſe of the ſight, they called unto one another, and were all come above Board, expecting what ſhould occaſion ſo ſtrange a motion in the water, they found it to draw nearer to them, which made them the more eager to apprehend the cauſe, at length they perceived it to be a Whale, and that of no ſmall proportion, but (as it were the Leviathan of the Sea) to tranſcend all other VVhales in length and compaſſe. The VVhale made towards the Shipp, which
+<pb n="2" facs="tcp:109918:3"/>put the Marriners into a great fear, being not able to get from it, but they perceived the Monſter of the ſea to come to them rather for re<g ref="char:EOLhyphen"/>fuge, then offence, for they ſaw it was followed by a infinite compa<g ref="char:EOLhyphen"/>ny of other Fiſh, as if all the fiſhes of the Sea were in the purſuance of it: There were to be ſeen Fiſhes of all ſorts, onely the Remora was abſent, which the Sea-men afterwards conceived was got under their Ship. There was the Sword-Fiſh, the Thornbacke aimed with his Prickles, the faire Balena, the filthy Phocae, and ſuch a fry of Sea-Monſters (the old ones following after) as the like was never ſeen nor can be repreſented, but onely by thoſe men who were the Specta<g ref="char:EOLhyphen"/>tors of it. In a moſt violent manner they did beat againſt the VVhale, making a moſt hideous and fearfull noyſe, and falling upon her, ſhee made what haſte ſhe could to get from them: ſome of theſe fiſhes were in one ſhape, and ſome in another, but all moſt wonderfull to behold, who in great fury did uſe whatſoever weapons of offence that nature had afforded them to aſſault this VVhale: nay, many of them were ſo eager in their fight, that they were ſeen to leap above the wa<g ref="char:EOLhyphen"/>ter, and as if they had gained an advantage of ſtrength, they did throw themſelves with greater rage againſt it, who being but one againſt ſo many thouſands, was not able to wirſtand their fury, but making a moſt terrible crie, did what ſhe could to come near the Ship. On this the amazed and diſtracted Sea-men, fearing the VVhale ſhould over<g ref="char:EOLhyphen"/>turn their ſhip, and ſo drowne them all, diſcharged divers of their muskets againſt it, which it ſeemeth took effect, for preſently they ſaw ſo great ſtore of Blood that the ſea was much coloured, and the Whale which before ſeemed to draw more near the Ship for a ſafety, did now ſteer another courſe through the bloody and foaming waters. The infinite ſhoales of fiſh, which in incredible numbers did follow the Whale, were no way diſmayed at the noiſe of the Muskets, nor at the fire which was given, but perceiving the wounded Whale to make a<g ref="char:EOLhyphen"/>way from the Ship, in greedy throng they preſſed after it.</p>
+            <p>This made the Sea-men to wonder more, for many of them whoſe Names are here ſubſcribed, having been often at Sea, never beheld the like thing before, nor never ſaw ſuch diverſity of pertentous Fiſhes, following troups on troups, one after another, as if they were in emu<g ref="char:EOLhyphen"/>lation who firſt ſhould exerciſe their greateſt fury and revenge upon it; Beſides, they do profeſſe, that it did increaſe their wonder, to ſee this conteſtation which is againſt the uſuall way of nature, it being com<g ref="char:EOLhyphen"/>mon
+<pb n="3" facs="tcp:109918:3"/>and ordinary for the Whale to purſue other Fiſhes, and to devour them, and not to ſee a multitude of other Fiſhes (as if they were confederate all in one obligation) to purſue the Whale, and to do the uttermoſt of their endeavour to deſtroy it. In this manner they followed the Whale, and uſed what violence they could againſt it, as far as their eyes could reach, the ſea beating up and down, and the waters la<g ref="char:EOLhyphen"/>bouring as they paſſed through them, yet ſtill in cholerick tumults purſued the chaſe, leaving a great trale upon the wa<g ref="char:EOLhyphen"/>ters, which for a long way was to he ſeen as they paſſed.</p>
+            <p>By this the evening coming on, the winde did begin to riſe, which blowing from the South-Eaſt was very welcome to the Seamen, who making their beſt advantage of it, they came on the next morning (being Munday <hi>Octob.</hi> 20. 1645.) unto <hi>Weymouth,</hi> where they were no ſooner landed but they underſtood that a Whale of a mighty bigneſſe was caſt up three miles from that place, who coming in with the Tide, and being ſorely wounded with Musket ſhots, did make what haſte ſhe could to Land, and finding the Tyde to forſake her, ſhe made a mighry roar, that the noiſe thereof (as the coun<g ref="char:EOLhyphen"/>trey people do report) was heard two miles from it: on the next morning ſhe was found dead, like a mighty ruine lying all along upon the ſhore, the countrey people coming from all places in multitudes to behold it.</p>
+            <p>On Friday following theſe Sea-men (having diſpatched their buſineſſe at Weymouth, went nine of them together in one company to ſee the Whale, and the rather becauſe they did truly conjecture it to be the ſame Whale which on Sun<g ref="char:EOLhyphen"/>day before they ſaw purſued by ſuch monſtrous multitudes of fiſhes; corceiving alſo, that by reaſon of the many wounds which ſhe received by the ſhots from the Muskets, that ſhe made haſte to the next ſhore to dye on, for the Whale, al<g ref="char:EOLhyphen"/>though when ſhe is living will be covered with the Sea, yet
+<pb n="4" facs="tcp:109918:4"/>when ſhe feeleth death coming on, ſhe doth renounce that watery Element, and will admit no coverture but the wide Vault of Heaven. Theſe mariners being come they found the Countrey-people very active in cutting up the Whale, ſome buſie on one part of the body, ſome on another, the bet<g ref="char:EOLhyphen"/>ter ſort ſtanding by and wondring at the mighty compaſſe and proportion of it, and encouraging the Countrey-people to proceed in their unaccuſtomed work. The honeſt people partaked in the labour, the better ſort in the profit, and all in the grievouſneſſe of the ſmell, which to ſpeake the truth was ſo exceſſive, that if it be true Philoſophy, that a violent ſubject or ſenſible doth deſtroy the Senſory or the ſenſe, it may be a queſtion whether theſe Noſes can ever have the capacity of ſenting any thing that is ſweet again. Had you been there you might haue ſeen Greenland near Weymouth, ſuch a noiſe and a quarter they make when they do hew the Whales in peeces in that Northern Climate, where there is but one night and one day in a whole year.</p>
+            <p>Their ſtrength being loſt with labour, and their ſpirits with the odious importunity of the increaſing favour which pro<g ref="char:EOLhyphen"/>ceeded from the corruption of that mighty Carkaſſe, they re<g ref="char:EOLhyphen"/>lieve themſelves (according to the accuſtomed practice) with the ſtrength of Hot-Waters: and now being armed againſt all ingredients of ill ſavours, they diſtribute the fiſh in pre<g ref="char:EOLhyphen"/>pared Cauldrons, which by the benefit of the fire muſt be im<g ref="char:EOLhyphen"/>proved into Oyle,</p>
+            <p>While the labourers are boyling the Fiſh, the Merchants are compounding for the Spelme or ſeed thereof; and this commonly is called Parmacity, ſome part therof they deſign to <hi>Falmouth,</hi> ſome part to <hi>Exeter,</hi> ſome part to <hi>Weymouth,</hi> and very like ſome part to <hi>Briſtoll</hi> and <hi>London:</hi>
+            </p>
+            <p>The belly of this Whale being opened, and the vaſt Ribs being taken aſunder there was diſcovered in the Bowels of
+<pb n="5" facs="tcp:109918:4"/>it a man, who it ſeemes had not long lain buried, his head was ſhaven, he was ſure<g ref="char:EOLhyphen"/>ly ſome Prieſt, and the hair on his Crown ſince his death was not much grown.</p>
+            <p>They found alſo with this man a black Box made of Lether, wherein were divers Pardons for ſeverall Papiſts now in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and in <hi>Ireland,</hi> as for <hi>Iohn Flower</hi> and <hi>Humphrey Vaux</hi>] in <hi>England</hi> (it is thought that this <hi>Vaux</hi> is of kin to <hi>Guido Vaux,</hi> who indeavoured to have blown up the Par<g ref="char:EOLhyphen"/>liament Houſe in the yeare 1605.) Alſo many Pardons for Papiſts in <hi>Ireland,</hi> who have laboured to the uttermoſt of their endeavours to blow it up again, as to one <hi>Preſton,</hi> the ſame who is now expected to come over into <hi>England</hi> with Forces; alſo an exhortation to him to proceed in the Wars he had undertaken, with aſſurance of the benediction of his Holineſſe. A Pardon for one <hi>Muskerry,</hi> a Pardon for one <hi>Oneal,</hi> for <hi>Mac Magennis,</hi> and one for divers others, which was read by a Scholler, who
+<pb n="6" facs="tcp:109918:5"/>was then preſent, as thoſe Sea-men have affirmed, but being themſelves but unex<g ref="char:EOLhyphen"/>perienced men in Letters, they are ſorry they cannot deliver the particulars ſo ful<g ref="char:EOLhyphen"/>ly as they deſire.</p>
+            <p>It may evidently appear, that the reaſon why theſe multitudes of Fiſhes before re<g ref="char:EOLhyphen"/>lated did ſo proſecute this Whale, was by reaſon of the perſon in its Belly, who it ſeemes was caſt into the ſea by ſome ſhip<g ref="char:EOLhyphen"/>wrack, and then ſwallowed by this great Whale.</p>
+            <p>
+               <hi>The Pardons were for theſe men, viz.</hi>
+            </p>
+            <list>
+               <label>Engliſhmen</label>
+               <item>
+                  <list>
+                     <item>Iohn Flower</item>
+                     <item>Humphrey Vaux</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>Iriſhmen</label>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Iohn Muskerry</hi>
+                     </item>
+                     <item>
+                        <hi>William Preſton</hi>
+                     </item>
+                     <item>
+                        <hi>Patrick Oneal</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Macgennis</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>The Names of the Seamen who affirme this, and were eye witneſſes, are <hi>William Lelo</hi> Maſter of the ſhip, <hi>Tho: Chib<g ref="char:EOLhyphen"/>nall</hi> Boteſwain, <hi>Francis Sero, Tho: Taylor.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109918:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
